@@ -18,5 +18,5 @@ distill::create_post("Post Title", author="Author")
 
 3. Edit and knit the corresponding Rmd file created in the _posts folder. See [https://rstudio.github.io/distill/basics.html](https://rstudio.github.io/distill/basics.html) to learn more about editing Rmarkdown files in the Distill format.
 
-4. Commit, push, and make a pull request to integrate the post to this blog.
+4. Commit the Rmd and generated html files, push, and make a pull request to integrate the post to this blog.
 
