@@ -9,9 +9,9 @@ install.packages("distill")
 
 Then, follow the instructions below:
 
-1. Fork this repository.
+1. Fork this repository and open it as a project in RStudio.
 
-2. Use the command below to create a new blog post:
+2. Use the R command below to create a new blog post:
 ```r
 distill::create_post("Post Title", author="Author")
 ```
