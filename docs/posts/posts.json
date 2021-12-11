@@ -1,0 +1,53 @@
+[
+  {
+    "path": "posts/2021-12-11-test-post-1/",
+    "title": "Test post 1",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Olivier Binette",
+        "url": {}
+      }
+    ],
+    "date": "2021-12-11",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-12-11T15:03:56-05:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2021-12-11-test-post-2/",
+    "title": "Test post 2",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Olivier Binette",
+        "url": {}
+      }
+    ],
+    "date": "2021-12-11",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-12-11T15:05:48-05:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to template",
+    "description": "Welcome to our new blog, template. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-12-11",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-12-11T15:02:22-05:00",
+    "input_file": {}
+  }
+]
