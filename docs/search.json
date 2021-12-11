@@ -13,7 +13,13 @@
       "title": "RLIG's blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-12-11T15:08:10-05:00"
+      "last_modified": "2021-12-11T15:26:02-05:00"
+    },
+    {
+      "path": "README.html",
+      "author": [],
+      "contents": "\nThis blog is constructed using RStudio’s Distill for Rmarkdown framework.\nHow to create a blog post\nIn order to contribute a post to this blog, you will need R, RStudio, and an installation of the distill R package:\ninstall.packages(\"distill\")\nThen, follow the instructions below:\nFork this repository.\nUse the command below to create a new blog post:\ndistill::create_post(\"Post Title\", author=\"Author\")\nEdit and knit the corresponding Rmd file created in the _posts folder.\nCommit, push, and make a pull request to integrate the post to this blog.\n",
+      "last_modified": "2021-12-11T15:26:02-05:00"
     }
   ],
   "collections": ["posts/posts.json"]
